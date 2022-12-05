@@ -1,0 +1,13 @@
+CHANGES DONE
+Requesting you to kindly open every filw of your project in parallel with the Corrected Project files
+lots of changes had to be done, 
+[PLEASE RETAIN BOTH THE PROJECTS SEPARATELY FOR COMPARISON TO UNDERSTAND WHAT AND ALL CHANGES 
+WERE TO BE DONE]
+in 
+
+1) Controller since Your controller was not getting rcognized added new controller with the code copied
+2) Changed few contents in Controller, you can compare your previous file with the changed file
+3) CHANGED few things in JSP files
+4) Changed few things in Repository
+5) ADded few things in pom.xml
+6) added few things in application.properties file
